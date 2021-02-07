@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "6b21cb22818e09132fb904705c31d3a1"
+        API_ID = 1479154
+        BOT_TOKEN = "1653093114:AAHyd4cAbuvleyPBYWds8DavLIV3Fnt1uzo"and
+        BASE_URL_OF_BOT = "t.me/Cptorrentbot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [727037917]
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
